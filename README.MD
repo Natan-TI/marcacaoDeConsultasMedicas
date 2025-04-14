@@ -49,6 +49,7 @@ Este é um aplicativo mobile desenvolvido com **React Native + TypeScript** que 
 
 ![Tela inicial](assets/screenshot1.png)
 ![Marcação de consulta](assets/screenshot2.png)
+![Marcação de consulta2](assets/screenshot4.png)
 ![Consulta marcada](assets/screenshot3.png)
 
 ## 👨‍⚕️ Sobre o Projeto
